@@ -1,0 +1,22 @@
+{
+  "name": "modweb-processor",
+  "version": "1.0.0",
+  "description": "Page processor: modules, views, master view, etc.",
+  "main": "lib/processor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modwebjs/processor.git"
+  },
+  "keywords": [
+    "modweb"
+  ],
+  "author": "Modweb project",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/modwebjs/processor/issues"
+  },
+  "homepage": "https://github.com/modwebjs/processor#readme"
+}
